@@ -1,4 +1,4 @@
-package com.yiche.design.creatation.factory.FactoryMethod;
+package com.yiche.design.creatation.factory.factoryMethod;
 
 /**
  * @author liangyt
