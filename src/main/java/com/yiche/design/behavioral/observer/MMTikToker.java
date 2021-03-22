@@ -27,6 +27,7 @@ public class MMTikToker  extends AbstractTikToker{
         fansList.add(fans);
     }
 
+    //通知所有观察者
     @Override
     void notifyFans(String msg) {
         //1、所有粉丝拿来通知

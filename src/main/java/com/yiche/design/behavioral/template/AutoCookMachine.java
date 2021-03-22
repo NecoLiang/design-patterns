@@ -11,5 +11,4 @@ public class AutoCookMachine extends CookTemplate{
     public void addsalt() {
         System.out.println("放了三勺盐");
     }
-
 }

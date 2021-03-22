@@ -16,7 +16,6 @@ public class TeamGNR {
     public void startGame(){
         System.out.println("游戏开始.....");
         //游戏策略
-        //
         gameStrategy.warStrategy();
         System.out.println("win......");
     }

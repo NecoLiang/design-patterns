@@ -1,7 +1,5 @@
 package com.yiche.design.behavioral.mediator;
 
-import java.util.List;
-
 /**
  * 海南8778
  */
